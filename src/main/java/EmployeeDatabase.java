@@ -58,7 +58,7 @@ public class EmployeeDatabase {
          */
     }
 
-    /**
+    /** 
      * Count the number of employees under this manager.
      * <p>
      * Consider both a recursive and an iterative solution to this problem.
